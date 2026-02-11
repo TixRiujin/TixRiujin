@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Matteo Equitani
+#  Hi, I'm Matteo Equitani
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=SysAdmin+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Homelab+Tinkerer+%F0%9F%9B%A0%EF%B8%8F;Gaming+%26+Reading+Lover+%F0%9F%8E%AE%F0%9F%93%9A" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div align="center">
 
@@ -16,20 +16,20 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Who I Am
-💼 **System Administrator**
-🛡️ **Cybersecurity Enthusiast**
-🏠 **Homelab Tinkerer**
-🇮🇹 **Based in Italy**
+###  Who I Am
+ **System Administrator**
+ **Cybersecurity Enthusiast**
+ **Homelab Tinkerer**
+ **Based in Italy**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What I Love
-🎮 **Video Games**
-📚 **Reading Books**
-🔧 **Automation & Scripting**
-🌐 **Networking & Security**
+###  What I Love
+ **Video Games**
+ **Reading Books**
+ **Automation & Scripting**
+ **Networking & Security**
 
 </td>
 </tr>
@@ -41,49 +41,49 @@
 
 <div align="center">
 
-💼 I work as a **sysadmin** and love tinkering with **cybersecurity** and my **homelab**
-🎮 In my free time I game, read books, and watch **anime and manga**
-🏎️ Big passion for **cars** and anything with an engine
-🔧 I enjoy trying new tech and automating everything I can
+ I work as a **sysadmin** and love tinkering with **cybersecurity** and my **homelab**
+ In my free time I game, read books, and watch **anime and manga**
+ Big passion for **cars** and anything with an engine
+ I enjoy trying new tech and automating everything I can
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & DevOps
+###  Backend & DevOps
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### 📊 Monitoring & Security
+###  Monitoring & Security
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
-### 🔧 Tools
+###  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-### 👀 Profile Views
+###  Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/TixRiujin/count.svg)
 
 </div>
