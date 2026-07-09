@@ -1,116 +1,48 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/tixriujin">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Hi%2C%20I'm%20Matteo" alt="Hi, I&#39;m Matteo" />
+  </a>
+</p>
 
-#  Hi, I'm Matteo Equitani
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=595&height=44&lines=Im%20An%20Homelab%20Tinkerer%20Based%20in%20Italy;I%20work%20as%20a%20sysadmin" alt="Typing headlines" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=SysAdmin+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Homelab+Tinkerer+%F0%9F%9B%A0%EF%B8%8F;Gaming+%26+Reading+Lover+%F0%9F%8E%AE%F0%9F%93%9A" alt="Typing SVG" />
+### 🚀 About Me
 
-</div>
+I create things to make my life easier and i love over-engineer stuff
 
----
+🔭 &nbsp;I'm currently working on **my homelab**
 
-##  About Me
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔗 Connect With Me
 
-###  Who I Am
- **System Administrator**
- **Cybersecurity Enthusiast**
- **Homelab Tinkerer**
- **Based in Italy**
+<p align="left">
+  <a href="https://www.linkedin.com/in/matteo-equitani-101829346/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@equitani.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### 📈 Contribution Graph
 
-###  What I Love
- **Video Games**
- **Reading Books**
- **Automation & Scripting**
- **Networking & Security**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
- I work as a **sysadmin** and love tinkering with **cybersecurity** and my **homelab**
- In my free time I game, read books, and watch **anime and manga**
- Big passion for **cars** and anything with an engine
- I enjoy trying new tech and automating everything I can
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tixriujin&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-
-##  Tech Stack
-
-###  Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-###  Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-###  Backend & DevOps
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-###  Monitoring & Security
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-
-###  Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
----
-
-##  GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TixRiujin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TixRiujin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TixRiujin&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7)](https://git.io/streak-stats)<br>
-
-</div>
-
----
-
-##  Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo_Equitani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-equitani)
-[![Email](https://img.shields.io/badge/Email-matteo.equitani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.equitani@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-tixryujin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-</div>
-
----
-
-<div align="center">
-
-###  Profile Views
-![Visitor Count](https://profile-counter.glitch.me/TixRiujin/count.svg)
-
-</div>
-
+<p align="center"><i>⭐️ From <a href="https://github.com/tixriujin">tixriujin</a></i></p>
